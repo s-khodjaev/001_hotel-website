@@ -2,3 +2,9 @@
 
 ![image](https://private-user-images.githubusercontent.com/109642388/453763649-d272cf2d-750c-4da4-84ee-928434edb7f8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk2MjA1MDcsIm5iZiI6MTc0OTYyMDIwNywicGF0aCI6Ii8xMDk2NDIzODgvNDUzNzYzNjQ5LWQyNzJjZjJkLTc1MGMtNGRhNC04NGVlLTkyODQzNGVkYjdmOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxMVQwNTM2NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMTQ2Zjg0ODE1YTNhZjYwNzFlYmRjNGFiMmI3NjEwNGRjMjQ2MmExYzYyMDM3MjM3YWQ0OGQ3NjQ3ZjhhODA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.H0xvVGiQyTQ0y7oQb7bzwn_yU1hS1nKQR2O3GDIWmyY)
 
+This template is from [**Modern HTML & CSS from the beginning**](https://www.traversymedia.com/modern-html-css-from-the-beginning) course by _Brad Traversy_
+
+The templates includes the following features:
+  - clean & simple design
+  - use of font-awesome icons
+  - fully responsive
